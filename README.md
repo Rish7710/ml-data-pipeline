@@ -7,7 +7,12 @@ This Porject demonstrates and end-to-end data cleaning and feature engineering p
 -Python -Pandas -NumPy
 
 📂Project Structure
-ml-data-pipeline/ ├── data/ ├── output/ ├── pipeline.py ├── requirements.txt └── README.md
+ml-data-pipeline/ 
+├── data/ 
+├── output/ 
+├── pipeline.py 
+├── requirements.txt 
+└── README.md
 
 🚀 How to Run
 pip install -r requirements.txt
